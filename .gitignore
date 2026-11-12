@@ -1,0 +1,11 @@
+# data (re-pullable, don't commit)
+data/
+
+#python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Secrets
+.env
